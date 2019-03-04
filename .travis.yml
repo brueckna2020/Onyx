@@ -1,9 +1,0 @@
-language: python
-osx_image: xcode10.1
-before_install:
-  - chmod +x Onyx.py
-install:
-  - brew install python@2
-  - travis_wait 30 brew install numpy
-  - travis_wait 30 apt-get install python-tk
-script: ./Onyx.py
