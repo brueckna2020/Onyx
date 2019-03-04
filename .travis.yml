@@ -1,6 +1,9 @@
 language: python
+osx_image: xcode10.1
 before_install:
   - chmod +x Onyx.py
+  - curl -LO https://raw.githubusercontent.com/GiovanniBussi/macports-ci/master/macports-ci
+  - source ./macports-ci install
   - sudo port install python27
   - sudo port select python python27
   - sudo port install py27-numpy
