@@ -1,4 +1,8 @@
 language: python
 before_install:
   - chmod +x Onyx.py
+  - sudo port install python27
+  - sudo port select python python27
+  - sudo port install py27-numpy
+  - sudo port install py27-tkinter
 script: ./Onyx.py
