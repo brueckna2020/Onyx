@@ -4,8 +4,9 @@ before_install:
   - chmod +x Onyx.py
   - curl -LO https://raw.githubusercontent.com/GiovanniBussi/macports-ci/master/macports-ci
   - source ./macports-ci install
-  - sudo port install python27
-  - sudo port select python python27
-  - sudo port install py27-numpy
-  - sudo port install py27-tkinter
+ install:
+  - travis_wait 30 sudo port install python27
+  - travis_wait 30 sudo port select python python27
+  - travis_wait 30 sudo port install py27-numpy
+  - travis_wait 30 sudo port install py27-tkinter
 script: ./Onyx.py
