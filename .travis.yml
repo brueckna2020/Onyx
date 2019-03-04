@@ -1,2 +1,2 @@
 language: python
-script:./Onyx.py
+script: ./Onyx.py
