@@ -5,7 +5,7 @@ The Onyx isotope effect functionality will be demonstrated using a secondary con
 
 ![Figure](example_intro.png)
 
-Figure 1. Observed kinetic isotope effect for the C-N rotation in formamide.
+__Figure 1.__ Observed kinetic isotope effect for the C-N rotation in formamide.
 
 ## Log functionality
 The `log_functionality` directory includes 4 log files and one text file necessary for the isotope effect computation:
