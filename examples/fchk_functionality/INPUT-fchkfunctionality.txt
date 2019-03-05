@@ -1,0 +1,18 @@
+Please fill out the following text file. Words in brackets are the standard response to the question
+Ground state file (can be multiple):
+Formamide_GS_Structure.fchk
+Transition state file (can be multiple):
+Formamide_TS1_Structure.fchk
+Do you want to write hyperchem files? [No]
+No
+Temperature (in Kelvin) (can be multiple):
+298.15
+Pressure (in atm) (only one):
+1
+Scaling factor for frequencies during thermochemistry: (only one)
+1
+Project out gradient direction [No]:
+No
+Atom symbol - ground state atom number - transition state atom number - isotope
+Put at least one space between each input. DO NOT use any other characters to signify spaces!
+H 5 5 2
