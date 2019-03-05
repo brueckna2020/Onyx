@@ -1,41 +1,41 @@
 ---
 title: ‘Onyx: Automatic calculation of isotope effects’
 tags:
-	- Python
-	- chemistry
-	- organic chemistry
+    - Python
+    - chemistry
+    - organic chemistry
 - isotope effect
-	- graphical user interface
+    - graphical user interface
 authors:
-	- name: Alexander C. Brueckner
-	  orcid: 0000-0001-5866-0878
-	  affiliation: 1
-	- name: O. Maduka Ogba
-	  orcid: 0000-0002-5718-6761
-	  affiliation: “1, 2, 3”
+    - name: Alexander C. Brueckner
+      orcid: 0000-0001-5866-0878
+      affiliation: 1
+    - name: O. Maduka Ogba
+      orcid: 0000-0002-5718-6761
+      affiliation: “1, 2, 3”
 - name: Sebastian L. Cevallos
-	  orcid: 0000-0002-1983-9522
-	  affiliation: “2, 4”
+      orcid: 0000-0002-1983-9522
+      affiliation: “2, 4”
 - name: Daniel W. Walden
-	  orcid: XXXX-XXXX-XXXX-XXXX
-	  affiliation: “1, 5”
+      orcid: XXXX-XXXX-XXXX-XXXX
+      affiliation: “1, 5”
 - name: Daniel J. O’Leary
-	  orcid: 0000-0002-2887-2957
-	  affiliation: 2
+      orcid: 0000-0002-2887-2957
+      affiliation: 2
 - name: Paul H.-Y. Cheong
-	  orcid: 0000-0001-6705-2962
-	  affiliation: 1
+      orcid: 0000-0001-6705-2962
+      affiliation: 1
 affiliations:
-	- name: Department of Chemistry, Oregon State University, United States
-	  index: 1
-	- name: Chemistry Department, Pomona College, United States
-	  index: 2
-	- name: Schmid College of Science and Technology, Chapman University, United States
-	  index: 3
-	- name: Atlassian, United States
-	  index: 4
-	- name: Chemistry Department, École Normale Supérieure de Lyon, France
-	  index: 5
+    - name: Department of Chemistry, Oregon State University, United States
+      index: 1
+    - name: Chemistry Department, Pomona College, United States
+      index: 2
+    - name: Schmid College of Science and Technology, Chapman University, United States
+      index: 3
+    - name: Atlassian, United States
+      index: 4
+    - name: Chemistry Department, École Normale Supérieure de Lyon, France
+      index: 5
 date: DD Month 2019
 bibliography: paper.bib
 ---
