@@ -1,6 +1,12 @@
 # Sample files
 Included in this directory are a handful of files, output by [Gaussian 09](http://gaussian.com/), to be used as sample input for demonstrating Onyx's functionality.
 
+The Onyx isotope effect functionality will be demonstrated using a secondary conformational kinetic isotope effect (KIE) for the C-N rotation in formamide reported by Perrin and co-workers in 1992(Figure 1).(REF) The reported *kH/kD* measured by NMR was 1.16 ± 0.10 at room temperature.
+
+![Figure](example_intro.png)
+
+Figure 1. Observed kinetic isotope effect for the C-N rotation in formamide.
+
 ## Log functionality
 The `log_functionality` directory includes 4 log files and one text file necessary for the isotope effect computation:
 - `Formamide_XXYY_Structure.log` is the output from a [Gaussian frequency computation](http://gaussian.com/freq/). `XX` simply identifies the computation as a ground state (`GS`) or transition state (`TS1`). `YY` identifies the isotopic labeling (`unlabeled` = hydrogen; `labeled` = deuterium). These are required for Onyx to parse frequency and thermochemistry information.
