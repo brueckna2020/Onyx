@@ -4,7 +4,7 @@ bibliography: README.bib
 # Sample files
 Included in this directory are a handful of files, output by [Gaussian 09](http://gaussian.com/), to be used as sample input for demonstrating Onyx's functionality.
 
-The Onyx isotope effect functionality will be demonstrated using a secondary conformational kinetic isotope effect (KIE) for the C-N rotation in formamide reported by Perrin and co-workers in 1992(Figure 1).(REF) The reported *kH/kD* measured by NMR was 1.16 ± 0.10 at room temperature.
+The Onyx isotope effect functionality will be demonstrated using a secondary conformational kinetic isotope effect (KIE) for the C-N rotation in formamide reported by Perrin and co-workers in 1992 (Figure 1).[@Perrin:1992] The reported *kH/kD* measured by NMR was 1.16 ± 0.10 at room temperature.
 
 ![Figure](example_intro.png)
 
