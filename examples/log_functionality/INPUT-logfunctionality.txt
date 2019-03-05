@@ -1,13 +1,20 @@
-Please fill out the following text file.
-Unlabeled transition state file:
+======================Onyx Input File======================
+
+Please fill out your entry in the space BELOW each query.
+If multiple entries are desired for a query, each must be typed in a new line.
+[Words in brackets] =  standard response to query.
+
+=====================USER ENTRY BELOW======================
+
+Unlabeled transition state (or state 2) file(s):
 Formamide_TS1unlabeled_Structure.log
-Labeled transition state file:
+Labeled transition state (or state 2) file(s):
 Formamide_TS1labeled_Structure.log
-Unlabeled ground state file:
+Unlabeled ground state (or state 1) file(s):
 Formamide_GSunlabeled_Structure.log
-Labeled ground state file:
+Labeled ground state (or state 1) file(s):
 Formamide_GSlabeled_Structure.log
-Temperature(in Kelvin):
+Temperature(s) in Kelvin:
 298.15
-Scaling factor:
+Scaling factor for vibrational frequencies (only one) [1.0]:
 1
