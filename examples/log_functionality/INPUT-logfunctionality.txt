@@ -1,0 +1,13 @@
+Please fill out the following text file.
+Unlabeled transition state file:
+Formamide_TS1unlabeled_Structure.log
+Labeled transition state file:
+Formamide_TS1labeled_Structure.log
+Unlabeled ground state file:
+Formamide_GSunlabeled_Structure.log
+Labeled ground state file:
+Formamide_GSlabeled_Structure.log
+Temperature(in Kelvin):
+298.15
+Scaling factor:
+1
