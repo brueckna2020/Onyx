@@ -36,7 +36,7 @@ affiliations:
     index: 4
   - name: Chemistry Department, École Normale Supérieure de Lyon, France
     index: 5
-date: DD Month 2019
+date: DD Month 2019 # TODO: update this
 bibliography: paper.bib
 ---
 

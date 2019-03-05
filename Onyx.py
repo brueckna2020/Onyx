@@ -22,7 +22,7 @@ except ImportError:
 import tkMessageBox
 # ttk available at:
 # https://pypi.python.org/pypi/pyttk
-#from ttk import *
+from ttk import *
 import itertools as itertools
 import tkFileDialog as fd
 from tkFileDialog import askopenfilename
@@ -1421,7 +1421,7 @@ def parse_file_names(directory):
     nmr_files = []
 
     # Get log files from selected directory
-    log_files = find_log_files(directory.get())
+    log_files = [str(file_name) for file_name in os.listdir(directory.get()) if file_name.endswith('log')]
 
     # Sorts _nmr & _therm files
     for n in range(0, len(log_files)):
