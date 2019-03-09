@@ -1,0 +1,25 @@
+======================Onyx Input File======================
+
+Please fill out your entry in the space BELOW each query.
+If multiple entries are desired for a query, each must be typed in a new line.
+[Words in brackets] =  standard response to query.
+
+=====================USER ENTRY BELOW======================
+
+Ground state (or state 1) formatted checkpoint file(s):
+Formamide_GS_Structure.fchk
+Transition state (or state 2) formatted checkpoint file(s):
+Formamide_TS1_Structure.fchk
+Write hyperchem files? [No]:
+No
+Temperature(s) in Kelvin:
+298.15
+Pressure (only one) in atmospheres:
+1
+Scaling factor for vibrational frequencies (only one) [1.0]:
+1
+Project out gradient direction [No]:
+No
+Atom symbol - ground state atom number - transition state atom number - isotope
+Put at least one space between each input. DO NOT use any other character to signify spaces!
+H 5 5 2
