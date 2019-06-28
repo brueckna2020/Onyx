@@ -1508,7 +1508,6 @@ def calculate_IE_LOG_GUI(GS_unlabeled, GS_labeled, TS_unlabeled,
         return
 
     print "\n-------- Initializing Onyx Program --------\n"
-    print "HERE BITCH"
 
     count = 1
     master_output = []
